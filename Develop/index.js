@@ -50,7 +50,7 @@ const questions = () => {
         {
             type: "input",
             name: "tests",
-            message: "Is there a test included ",
+            message: "Is there a test included? ",
         },
         {
             type: "input",
